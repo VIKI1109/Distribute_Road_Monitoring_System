@@ -174,11 +174,6 @@ $ cd 2020_grp_17/src/RoadMonitoringSystemApp/
 
 The development log is [here](../log/devLog.md).
 
-## Status
-
-This project is under developing now. You may refer to the timeline of this project.
-
-![timeline](../images/timeline.png)
 
 ## More info
 
