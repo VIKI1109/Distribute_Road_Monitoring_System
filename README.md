@@ -1,10 +1,6 @@
 # Distributed Road Network Monitoring System
 
 
-[[_TOC_]]
-
-## What
-
 This repository is a project,  **Distributed Road Network Monitoring System**, developed by the 2020 GRP Team 17, School of Computer Science, University of Nottingham Ningbo China. See more about our project as the [project website](http://cslinux.nottingham.edu.cn/~Team202017/). This project is part of module Software Engineering Group Project (COMP 2043), School of Computer Science, University of Nottingham Ningbo China.
 
 ## Getting Started
